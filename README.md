@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src="Flickster2/Flickester2.gif" width=250><br>
+<img src="https://github.com/Xfairley717141/Flickster2/blob/master/Flickester2.gif" width=250><br>
 
 ### Notes
 
